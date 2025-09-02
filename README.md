@@ -3,9 +3,13 @@
 This is a Flask-based web application that predicts student performance using a trained Machine Learning model.
 The system takes marks in multiple subjects along with attendance as input and provides:
 
+
 ✅ Pass/Fail Prediction
+
 📊 Percentage Calculation
+
 📚 Subject-wise Weakness Analysis
+
 🎯 Personalized Learning Platform Suggestions (e.g., Khan Academy, BYJU’s, EnglishClass101, etc.)
 
 
@@ -24,6 +28,7 @@ Recommends online platforms for improvement.
 Simple Flask web interface for user interaction.
 
 
+
 🛠 Tech Stack
 
 Python (Machine Learning + Backend)
@@ -35,15 +40,22 @@ HTML, CSS, JavaScript (Frontend)
 Scikit-learn / Pandas / NumPy (ML + Data Handling)
 
 
+
 📂 Project Structure
 
 AI-Student-Performance/
 │── static/                # CSS, JS, Images
+
 │── templates/             # HTML files
+
 │── model/                 # ML Model files
+
 │── app.py                 # Flask main application
+
 │── requirements.txt       # Dependencies
+
 │── README.md              # Project Documentation
+
 
 
 🚀 Installation & Usage
@@ -73,13 +85,13 @@ http://127.0.0.1:5000/
 
 3. Get results:
 
-Pass/Fail status
+  Pass/Fail status
 
-Percentage score
+  Percentage score
 
-Weak subject analysis
+  Weak subject analysis
 
-Personalized platform suggestions
+  Personalized platform suggestions
 
 📜 License
 
